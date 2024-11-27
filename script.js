@@ -13,9 +13,9 @@ enemyImg.src = "./imgs/enemy_plane.png";
 const player = {
     x: canvas.width / 2 - 40,
     y: canvas.height - 100,
-    width: 80,
-    height: 80,
-    speed: 5,
+    width: 70,
+    height: 50,
+    speed: 10,
     bullets: []
 };
 
