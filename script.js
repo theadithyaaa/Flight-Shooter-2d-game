@@ -8,7 +8,7 @@ const playerImg = new Image();
 playerImg.src = "./imgs/plane.png"; 
 
 const enemyImg = new Image();
-enemyImg.src = "./imgs/enemy_plane.png"; 
+enemyImg.src = "./imgs/enemy.png"; 
 
 const player = {
     x: canvas.width / 2 - 40,
